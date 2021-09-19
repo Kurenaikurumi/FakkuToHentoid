@@ -6,8 +6,8 @@ Download eclipse from https://www.eclipse.org/downloads/ and install it in your 
 Download the file Project.rar and decompress it to desktop
 
 Open Eclipse, go to file -> open projects from file system -> Directory and select the decompressed "com.testing.maven.project" folder
-Wait for a few seconds to load and find main.java in package explorer ![image](https://imgur.com/a/WQGr2sm)
-Right click main.java -> run as -> java application ![image](https://imgur.com/a/WCxxBx5)
+Wait for a few seconds to load and find main.java in package explorer ![image](https://imgur.com/a/WQGr2sm.png)
+Right click main.java -> run as -> java application ![image](https://imgur.com/a/WCxxBx5.png)
 
 Enter directory folder containing the Fakku Books 
 The folder should ONLY contain the Fakku folders 
