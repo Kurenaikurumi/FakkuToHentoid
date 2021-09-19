@@ -15,4 +15,5 @@ Enter directory folder containing the Fakku Books
 The folder should ONLY contain the Fakku folders 
 
 This only works in folder names formatted as (Author) Title [Comic]
+
 I'm planning to make it available in other formats once I'm not busy with school 
